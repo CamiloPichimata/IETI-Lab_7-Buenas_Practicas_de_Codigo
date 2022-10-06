@@ -1,4 +1,4 @@
-# Laboratorio 7: Buenas practicas de Código
+# Laboratorio 7: Buenas prácticas de Código
 
 ## Inovación y Emprendimiento con Tecnologías de Información
 
